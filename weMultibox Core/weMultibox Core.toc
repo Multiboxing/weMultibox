@@ -1,0 +1,5 @@
+## Interface: 80000
+## Title: weMultibox
+## Author: Multiboxing Community
+## Version: 1.0
+

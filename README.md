@@ -1,2 +1,2 @@
 # WoW-Community-Addon
-un-named Community Multiboxing Addon for World of Warcraft
+weMultibox, the Community Multiboxing Addon for World of Warcraft
